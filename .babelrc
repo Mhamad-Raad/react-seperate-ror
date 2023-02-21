@@ -1,0 +1,10 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "parserOptions": {
+    "requireConfigFile": false,
+},
+  "plugins": ["@babel/plugin-proposal-optional-chaining","@babel/plugin-syntax-jsx"],
+  "eslint.workingDirectories": [
+        {"mode": "auto"}
+  ]
+}
