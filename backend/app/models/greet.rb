@@ -1,0 +1,2 @@
+class Greet < ApplicationRecord
+end
