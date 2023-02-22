@@ -69,6 +69,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need: `Ruby`, `Rails` and a Database such as PostgreSQL
 
+### Front-end
+[front-end](https://github.com/Mhamad-Raad/react-seperate-ror/tree/dev/frontend)
+
 ### Setup
 
 Clone this repository to your desired folder:
