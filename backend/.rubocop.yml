@@ -1,12 +1,12 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - "backend/db/**/*"
-    - "backend/bin/*" 
-    - "backend/config/**/*"
-    - "backend/Guardfile"
-    - "backend/Rakefile"
-    - "backend/node_modules/**/*"
+    - "db/**/*"
+    - "bin/*" 
+    - "config/**/*"
+    - "Guardfile"
+    - "Rakefile"
+    - "node_modules/**/*"
 
   DisplayCopNames: true
 
