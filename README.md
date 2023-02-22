@@ -26,7 +26,7 @@
 
 # 📖 React-ruby application <a name="about-project"></a>
 
-**[Budget Application]** This project, created using Ruby on Rails, and React, to simply show case front end and backedn working together.
+**[Budget Application]** This project, created using Ruby on Rails, and React, to simply show case front end and backend working together.
 ## 🛠 Built With <a name="built-with"></a>
 
 Built with Ruby on Rails
