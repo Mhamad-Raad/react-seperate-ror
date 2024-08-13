@@ -26,7 +26,7 @@
 
 # 📖 React-ruby application <a name="about-project"></a>
 
-**[Budget Application]** This project, created using Ruby on Rails, and React, to simply show case the jsbuilding connection between the two and how they can work together.
+**[Budget Application]** This project, created using Ruby on Rails, and React, to simply show case front end and backend working together.
 ## 🛠 Built With <a name="built-with"></a>
 
 Built with Ruby on Rails
@@ -69,12 +69,15 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need: `Ruby`, `Rails` and a Database such as PostgreSQL
 
+### Front-end
+[front-end](https://github.com/Mhamad-Raad/react-seperate-ror/tree/dev/frontend)
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/Mhamad-Raad/react-ruby-hello.git
+  git clone https://github.com/Mhamad-Raad/react-seperate-ror.git
   cd react-ruby-hello
 ```
 
@@ -85,15 +88,17 @@ Install this project with:
 Run the following commands, to be able to use Bootstap and JavsScript. If overwrites, type _y_
 
 ```
-  rails javascript:install:webpack
 ```
 
 Then run:
 
 ```
+ in backend folder
   bundle install
-  rails db:create
-  rails db:migrate
+
+  in the frontend folder
+  npm install
+ 
 ```
 
 ### Usage
@@ -144,7 +149,7 @@ To run all tests, including unit and integration tests, run the following comman
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Mhamad-Raad/react-ruby-hello/issues).
+Feel free to check the [issues page](https://github.com/Mhamad-Raad/react-seperate-ror/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
